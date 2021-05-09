@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/home/static/css/main.1f482756.chunk.css",
-    "main.js": "/home/static/js/main.c827494e.chunk.js",
-    "main.js.map": "/home/static/js/main.c827494e.chunk.js.map",
+    "main.js": "/home/static/js/main.a9c1b545.chunk.js",
+    "main.js.map": "/home/static/js/main.a9c1b545.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.e4e5ad17.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.e4e5ad17.js.map",
     "static/js/2.174b427c.chunk.js": "/home/static/js/2.174b427c.chunk.js",
@@ -10,15 +10,14 @@
     "index.html": "/home/index.html",
     "static/css/main.1f482756.chunk.css.map": "/home/static/css/main.1f482756.chunk.css.map",
     "static/js/2.174b427c.chunk.js.LICENSE.txt": "/home/static/js/2.174b427c.chunk.js.LICENSE.txt",
-    "static/media/Comp 1.003d49c2.mp4": "/home/static/media/Comp 1.003d49c2.mp4",
     "static/media/Logo.d0776d9c.png": "/home/static/media/Logo.d0776d9c.png",
-    "static/media/Loop.391f25d5.mp4": "/home/static/media/Loop.391f25d5.mp4",
+    "static/media/LoopComp.0f82cf72.mp4": "/home/static/media/LoopComp.0f82cf72.mp4",
     "static/media/featured.4c9a1776.jpg": "/home/static/media/featured.4c9a1776.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e4e5ad17.js",
     "static/js/2.174b427c.chunk.js",
     "static/css/main.1f482756.chunk.css",
-    "static/js/main.c827494e.chunk.js"
+    "static/js/main.a9c1b545.chunk.js"
   ]
 }
